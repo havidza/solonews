@@ -2,7 +2,9 @@
 SOLONEWS
 ###################
 
-Projek Website Berita dengan framework CodeIgniter  News website project with CodeIgniter framework
+Projek Website Berita dengan Framework CodeIgniter
+
+News website project with CodeIgniter Framework
 
 ###################
 What is CodeIgniter
